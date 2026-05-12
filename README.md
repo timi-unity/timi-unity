@@ -36,5 +36,5 @@ Featured Projects
 🔹 Experimental physics & gameplay systems
 
 Contact
-LinkedIn: [tu linkedin]
-itch.io: [tu itch]
+LinkedIn: www.linkedin.com/in/tomás-mandelman-94402b287
+itch.io: https://timinor.itch.io/
